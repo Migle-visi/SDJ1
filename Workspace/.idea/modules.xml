@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Loan/Loan.iml" filepath="$PROJECT_DIR$/Loan/Loan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstModule/LoanQualifier.iml" filepath="$PROJECT_DIR$/MyFirstModule/LoanQualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" filepath="$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayingAround/PlayingAround.iml" filepath="$PROJECT_DIR$/PlayingAround/PlayingAround.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workspace.iml" filepath="$PROJECT_DIR$/Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prep_1/prep_1.iml" filepath="$PROJECT_DIR$/prep_1/prep_1.iml" />
+    </modules>
+  </component>
+</project>

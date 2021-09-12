@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Address_v1/Address_v1.iml" filepath="$PROJECT_DIR$/Address_v1/Address_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Address_v2/Address_v2.iml" filepath="$PROJECT_DIR$/Address_v2/Address_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car_v1/Car_v1.iml" filepath="$PROJECT_DIR$/Car_v1/Car_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car_v1/Car_v2.iml" filepath="$PROJECT_DIR$/Car_v1/Car_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car_v22/Car_v22.iml" filepath="$PROJECT_DIR$/Car_v22/Car_v22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassEx-1/ClassEx-1.iml" filepath="$PROJECT_DIR$/ClassEx-1/ClassEx-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes.iml" filepath="$PROJECT_DIR$/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Clock_v1/Clock_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clock_v2/Clock_v2.iml" filepath="$PROJECT_DIR$/Clock_v2/Clock_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date_Prep/Date_Prep.iml" filepath="$PROJECT_DIR$/Date_Prep/Date_Prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DriverLicense_v1/DriverLicense_v1.iml" filepath="$PROJECT_DIR$/DriverLicense_v1/DriverLicense_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Email_v1/Email_v1.iml" filepath="$PROJECT_DIR$/Email_v1/Email_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Engine_v1/Engine_v1.iml" filepath="$PROJECT_DIR$/Engine_v1/Engine_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseGrade/ExerciseGrade.iml" filepath="$PROJECT_DIR$/ExerciseGrade/ExerciseGrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" filepath="$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" filepath="$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v3/MyDate_v3.iml" filepath="$PROJECT_DIR$/MyDate_v3/MyDate_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Name_v1/Name_v1.iml" filepath="$PROJECT_DIR$/Name_v1/Name_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v1/Person_v1.iml" filepath="$PROJECT_DIR$/Person_v1/Person_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v2/Person_v2.iml" filepath="$PROJECT_DIR$/Person_v2/Person_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v3/Person_v3.iml" filepath="$PROJECT_DIR$/Person_v3/Person_v3.iml" />
+    </modules>
+  </component>
+</project>
