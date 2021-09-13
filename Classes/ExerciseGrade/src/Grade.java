@@ -4,19 +4,20 @@ public class Grade
 
     public Grade(int grade)
     {
+        this.grade = grade;
         if (grade !=12 && grade !=10 && grade !=7 && grade !=4 && grade !=2 && grade !=0 && grade !=-3)
         {
-            grade = -3;
+            this.grade = -3;
         }
-        this.grade = grade;
     }
 
     public Grade(String ectsGrade)
     {
-        if (!ectsGrade.equals("A") && !ectsGrade.equals("B") && !ectsGrade.equals("C") && !ectsGrade.equals("D") && !ectsGrade.equals("E") && !ectsGrade.equals("F")&& !ectsGrade.equals("Fx"))
+        if (ectsGrade != "A" && ectsGrade != "B" && ectsGrade !="C" && ectsGrade !="D" && ectsGrade !="E" && ectsGrade !="Fx" && ectsGrade !="F")
         {
             ectsGrade = "F";
         }
+
         switch (ectsGrade)
         {
             case "A":
@@ -40,7 +41,6 @@ public class Grade
             case "F":
                 this.grade = -3;
                 break;
-
         }
     }
 
@@ -53,8 +53,6 @@ public class Grade
     {
         switch(this.grade)
         {
-            case -3:
-                return "F";
             case 0:
                 return "Fx";
             case 2:
@@ -65,9 +63,10 @@ public class Grade
                 return "C";
             case 10:
                 return "B";
-            default:
+            case 12:
                 return "A";
-
+            default:
+                return "F";
         }
     }
 

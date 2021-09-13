@@ -6,8 +6,8 @@ public class GradeTest
     {
         Scanner keyboard = new Scanner(System.in);
 
-        Grade gr1 = new Grade(12);
-        Grade gr2 = new Grade("A");
+        Grade gr1 = new Grade(10);
+        Grade gr2 = new Grade("C");
 
         System.out.println("Tom got grade " + gr1.getGrade());
         System.out.println("Josh got grade " + gr2.getGrade());
